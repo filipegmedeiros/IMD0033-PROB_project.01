@@ -1,5 +1,3 @@
-## 1 Profitable App Profiles for the App Store and Google Play Markets
-
 **Projeto** da matéria de *Probabilidade*  do ano **2019.1**       
 <br>
 
