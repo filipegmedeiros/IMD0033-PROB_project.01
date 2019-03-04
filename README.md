@@ -63,8 +63,8 @@
    License under this project
   <br>
 <p align="center">
-    <a href="https://github.com/filipegmedeiros/IMD0033-PROB_project/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/github/license/filipegmedeiros/IMD0033-PROB_project.svg?longCache=true&style=for-the-badge"
+    <a href="https://github.com/filipegmedeiros/IMD0033-PROB_project.01/blob/master/LICENSE.md">
+        <img src="https://img.shields.io/github/license/filipegmedeiros/IMD0033-PROB_project.01.svg?longCache=true&style=for-the-badge"
              alt="License" /></a>
 </p>
 
